@@ -1,0 +1,43 @@
+* {
+	font-family: Tahoma;
+}
+.section {
+	padding: 20px 0;
+}
+.header {
+	font-size: 22px;
+	line-height: 1.5;
+	margin: 20px auto 60px auto;
+}
+.header span {
+	display: block;
+}
+.video {
+	margin-bottom: 30px;
+}
+.form {
+	border: 5px solid #C70000;
+	padding: 35px 20px;
+}
+.form p,body h2 {
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form-btn {
+	margin: 10px auto;
+	background-color: #C70000;
+}
+.form input{
+	margin-bottom: 12px;
+}
+.features {
+	margin: 60px auto;
+}
+.features p{
+	margin-top: 20px;
+}
+.feature-box img{
+	height: 125px;
+	width: 125px;
+}
