@@ -1,5 +1,5 @@
 # Дмитрий Шутов
-Здарова))
+Мои домашки
 
 [lesson_12](https://dementiy-dev.github.io/lesson_12/index.html "Довольно просто") - Первая работа(адаптивная верстка bootstrap)
 
